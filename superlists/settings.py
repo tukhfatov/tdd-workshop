@@ -1,4 +1,3 @@
-:qj:q
 """
 Django settings for superlists project.
 
